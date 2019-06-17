@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Hotel">
+    <serverData>
+      <paths name="Hotel">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Hotel" local="$PROJECT_DIR$" web="/hotel" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
